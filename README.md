@@ -27,5 +27,6 @@
 <h1>School Result </h1>
 <img src = "https://github.com/kinjal2020/MasterCalculator/blob/main/Screenshot_20231214_151102.png" height ="500"/>
   
-  
+<h1> Square or Hour </h1>
+  <img src="https://github.com/kinjal2020/MasterCalculator/blob/main/Screenshot_20231215_101944.png" height ="500"/>
 </div>
