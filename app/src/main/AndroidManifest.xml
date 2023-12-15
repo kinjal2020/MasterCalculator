@@ -15,6 +15,11 @@
         <activity
             android:name=".SchoolResultActivity"
             android:exported="false" />
+
+         <activity
+            android:name=".SquareRootActivity"
+            android:exported="false" />
+        
         <activity
             android:name=".DiscountActivity"
             android:exported="false" />
